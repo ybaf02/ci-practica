@@ -1,1 +1,1 @@
-# ci-practica
+Continous Integration (CI)
